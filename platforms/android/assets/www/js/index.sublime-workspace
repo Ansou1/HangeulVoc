@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"console"
+			],
+			[
+				"rem",
+				"removeProjectFromLocalStorage"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"cla",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"BAS",
+				"BASIC_DMG"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"BASI",
+				"BASIC_DMG"
+			],
+			[
+				"I",
+				"IDPS"
+			],
+			[
+				"impl",
+				"implements"
+			],
+			[
+				"ne",
+				"new_hero"
+			],
+			[
+				"h",
+				"hero"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"ta",
+				"tab_hero"
+			],
+			[
+				"word",
+				"word_tab"
+			],
+			[
+				"class",
+				"class_hero"
+			],
+			[
+				"line",
+				"lines"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"getHe",
+				"getHeroesFromFile"
+			],
+			[
+				"Pa",
+				"ParseFile"
+			],
+			[
+				"r",
+				"res"
+			],
+			[
+				"p",
+				"ptr"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"a",
+				"aptr"
+			],
+			[
+				"pr",
+				"printArray"
+			],
+			[
+				"st",
+				"string2"
+			],
+			[
+				"s",
+				"string1"
+			],
+			[
+				"stri",
+				"string1"
+			],
+			[
+				"v",
+				"value3"
+			],
+			[
+				"va",
+				"value1"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"ma",
+				"max"
+			],
+			[
+				"nu",
+				"number3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/simon/Desktop/MyCordovaProject/www/css/index.css",
+		"/C/Users/simon/Desktop/CordovaProject/config.xml",
+		"/C/Users/simon/Desktop/MyCordovaProject/info.txt",
+		"/C/Users/simon/Desktop/CordovaProject/platforms/android/CordovaLib/build.gradle",
+		"/C/Users/simon/Desktop/CordovaProject/platforms/android/CordovaLib/project.properties",
+		"/C/Users/simon/Desktop/CordovaProject/platforms/android/CordovaLib/cordova.gradle",
+		"/C/Users/simon/Desktop/CordovaProject/platforms/android/CordovaLib/AndroidManifest.xml",
+		"/C/Users/simon/Desktop/CordovaProject/platforms/android/gradle/wrapper/gradle-wrapper.properties",
+		"/C/Users/simon/Desktop/CordovaProject/platforms/android/build.gradle",
+		"/C/Users/simon/Desktop/CordovaProject/platforms/android/settings.gradle",
+		"/C/Users/simon/Desktop/CordovaProject/platforms/android/project.properties",
+		"/C/Users/simon/AppData/Local/Android/sdk/platforms/android-24/build.prop",
+		"/C/wamp/www/Tests/test.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/exam-poo-sc/ex_bonus.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/exam-poo-sc/ex_06.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/exam-poo-sc/ex_05.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/exam-poo-sc/ex_04.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/exam-poo-sc/ex_03.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/exam-poo-sc/ex_02.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/exam-poo-sc/ex_01.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_2/ex_06.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_2/ex_05.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_2/ex_04.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_2/ex_03.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_2/ex_02.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_2/ex_01.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_1/ex_01.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_1/ex_02.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_1/ex_03.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_1/ex_04.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_1/ex_05.php",
+		"/C/Users/simon/Downloads/PHP - Examen/PHP/Corrections/module_php_exam_1/ex_06.php",
+		"/C/Users/simon/Desktop/ruby_test.rb",
+		"/C/Users/simon/Downloads/heritage.rb",
+		"/C/Users/simon/Desktop/composition.rb",
+		"/C/Users/simon/Desktop/Veille Technologique",
+		"/C/Users/simon/Desktop/test_assistant/test_assistant.php",
+		"/C/Users/simon/Downloads/Colle2/colle2-1",
+		"/C/Users/simon/Documents/Samsung Piscine/Day 1/ex_06.sh",
+		"/C/Users/simon/Documents/Samsung Piscine/Day 1/ex_03.sh",
+		"/C/Users/simon/Documents/Samsung Piscine/Day 1/ex_02.sh",
+		"/C/Users/simon/Documents/Samsung Piscine/Day 1/ex_05.sh",
+		"/C/Users/simon/Documents/Samsung Piscine/Day 1/ex_01.sh",
+		"/C/Users/simon/Documents/Samsung Piscine/Day 1/ex_07.sh",
+		"/C/Users/simon/Documents/Samsung Piscine/Day 1/ex_04.sh",
+		"/C/Users/simon/Documents/Samsung Piscine/Day 1/ex_09.sh",
+		"/C/Users/simon/Documents/Samsung Piscine/Day 1/ex_08.sh",
+		"/C/Users/simon/Documents/test_assistant/test_assistant.php",
+		"/C/Users/simon/AppData/Roaming/Microsoft/VisualStudio/14.0/ActivityLog.xml",
+		"/C/wamp/www/Tests/test_xml.xml",
+		"/C/Users/simon/Downloads/test_assistant/test_assistant.php",
+		"/C/Users/simon/Documents/test_assistant/auteur",
+		"/C/wamp/www/Tests/my_test.php",
+		"/C/Program Files/Sublime Text 3/coursProgramingDebutant.c",
+		"/C/Program Files/Sublime Text 3/test.html",
+		"/C/Users/simon/Downloads/iyfiyfi/packages/MvvmLightLibs.5.3.0.0/lib/net35/System.Windows.Interactivity.xml",
+		"/C/Users/simon/AppData/Local/Temp/Temp1_System.Windows.Interactivity.zip/System.Windows.Interactivity.dll",
+		"/C/Users/simon/AppData/Local/Temp/Temp1_MVVM samples for TypeScript%2c Cordova and Universal Windows apps.zip/JavaScript/TypedMVVM.Samples.Universal/TypedMVVM.Samples.Cordova/WinJS/js/WinJS.js",
+		"/C/Program Files/Sublime Text 3/tutoriel.js",
+		"/C/Users/simon/Downloads/rtmidi-master/rtmidi_c.cpp",
+		"/C/Users/simon/Desktop/musicsheetwriter/Website/trunk/app/config/parameters.yml.dist",
+		"/C/Users/simon/Downloads/rtmidi-master/tests/cmidiin.cpp",
+		"/C/Users/simon/Downloads/rtmidi-2.1.1/tests/qmidiin.cpp",
+		"/C/Users/simon/Desktop/WindowsPhone/trunk/MusicSheetWriter/Login_Page.xaml.cs",
+		"/C/Users/simon/Desktop/musicsheetwriter/WindowsPhone/trunk/MusicSheetWriter/Login_Page.xaml.cs",
+		"/C/Users/simon/Downloads/rtmidi-2.1.1.tar.gz",
+		"/C/Users/simon/Documents/Visual Studio 2015/Projects/testInternet/testInternet/test.mid",
+		"/C/Users/simon/Documents/Visual Studio 2015/Projects/testInternet/testInternet/test_me.mid",
+		"/C/Users/simon/Downloads/vmpk-0.6.2a/src/pianokey.cpp",
+		"/C/Users/simon/Downloads/vmpk-0.6.2a/src/instrument.h",
+		"/C/Users/simon/Downloads/vmpk-0.6.2a.tar.bz2",
+		"/C/Users/simon/Downloads/JUCE/examples/HelloWorld/HelloWorld.jucer",
+		"/C/Users/simon/Desktop/id_rsa.pub",
+		"/C/Users/simon/Dropbox/EPITECH/PROJET_TECK1/SYSTEME_UNIX/minishell2-2017-daguen_s/print.c",
+		"/C/Users/simon/Desktop/musicsheetwriter/WindowsPhone/trunk/MusicSheetWriter/MusePage.xaml.cs",
+		"/C/Users/simon/Desktop/musicsheetwriter/WindowsPhone/trunk/MusicSheetWriter/MusePage.xaml",
+		"/C/Users/simon/Downloads/Media capture using capture device sample/C# and C++/MainPage.xaml.cs",
+		"/C/Users/simon/Downloads/Media capture using capture device sample/C# and C++/PhotoSequence.xaml",
+		"/C/Users/simon/Downloads/Media capture using capture device sample/C# and C++/PhotoSequence.xaml.cs",
+		"/C/Users/simon/Downloads/Media capture using capture device sample/C# and C++/BasicCapture.xaml.cs",
+		"/C/Users/simon/Downloads/Media capture using capture device sample/C# and C++/AudioCapture.xaml.cs",
+		"/C/Users/simon/Downloads/Media capture using capture device sample/C# and C++/AdvancedCapture.xaml.cs",
+		"/C/Users/simon/Downloads/Media capture using capture device sample/C# and C++/Constants.cs",
+		"/C/Users/simon/Downloads/Media capture using capture device sample/C# and C++/App.xaml.cs",
+		"/C/Users/simon/Desktop/portmidi-src-217/portmidi/pm_common/portmidi.h",
+		"/C/Users/simon/Desktop/portaudio/examples/pa_devs.c",
+		"/C/Users/simon/Desktop/portaudio/examples/CMakeLists.txt",
+		"/C/Users/simon/Desktop/portmidi-src-217/portmidi/pm_java/pmjni/jni.h",
+		"/C/Users/simon/Desktop/portmidi-src-217/portmidi/pm_java/pmdefaults/pmdefaults",
+		"/C/Users/simon/Dropbox/.dropbox",
+		"/C/Users/simon/Dropbox/EPITECH/PROJET_TECK2/PSU_2013_zappy/Makefile",
+		"/G/SIMON/Backup time ftp/204canards/204canards"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"android-",
+			"android",
+			"compileSdkVersion",
+			"compile",
+			"android",
+			"class",
+			"name",
+			"%\">",
+			"_obj",
+			"getInstance"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
